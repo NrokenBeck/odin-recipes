@@ -1,0 +1,29 @@
+div.parent {
+    text-align: center;
+}
+
+ol, ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h1, h2, p {
+    font-family: Arial;
+    font-weight: 800px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    background-color: pink;
+}
